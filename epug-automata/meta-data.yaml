@@ -1,0 +1,94 @@
+---
+# Generales
+title: "Poeta en Nueva York"
+subtitle: 
+author:
+  - García Lorca, Federico
+publisher: Biblioteca Virtual ACEB
+synopsis: "Constituye una reivindicación social por las clases más humildes y desfavorecidas, una crítica contra la miseria y opresión del hombre"
+category: poetry
+language: es
+version: 1.0.0
+cover: portada.jpg
+navigation: nav.xhtml
+## Tabla de contenidos
+no-toc:
+no-spine:
+custom:
+  002-legal.xhtml:
+  todo.xhtml:
+  todo.xhtml:
+  todo.xhtml:
+  000-portada.xhtml:
+  001-portadilla.xhtml:
+  002-legal.xhtml:
+  003-nota_del_editor.xhtml:
+  004-poemas_de_la_soledad_en.xhtml:
+  005-vuelta_de_paseo.xhtml:
+  006-mil_novecientos_diez.xhtml:
+  007-fabula_y_rueda_de_los.xhtml:
+  008-tu_infancia_en_menton.xhtml:
+  009-los_negros.xhtml:
+  010-norma_y_paraiso_de_los.xhtml:
+  011-el_rey_del_harlem.xhtml:
+  012-iglesia_abandonada.xhtml:
+  013-calles_y_suenos.xhtml:
+  014-danza_de_la_muerte.xhtml:
+  015-paisaje_de_la_multitud_que.xhtml:
+  016-paisaje_de_la_multitud_que.xhtml:
+  017-asesinato.xhtml:
+  018-navidad_en_el_hudson.xhtml:
+  019-ciudad_sin_sueno.xhtml:
+  020-panorama_ciego_de_nueva_york.xhtml:
+  021-nacimiento_de_cristo.xhtml:
+  022-la_aurora.xhtml:
+  023-poemas_del_lago_eden_mills.xhtml:
+  024-poema_doble_del_lago_eden.xhtml:
+  025-cielo_vivo.xhtml:
+  026-en_la_cabana_del_farmer.xhtml:
+  027-el_nino_stanton.xhtml:
+  028-vaca.xhtml:
+  029-nina_ahogada_en_el_pozo.xhtml:
+  030-introduccion_a_la_muerte.xhtml:
+  031-muerte.xhtml:
+  032-nocturno_del_hueco.xhtml:
+  033-paisaje_con_dos_tumbas_y.xhtml:
+  034-ruina.xhtml:
+  035-luna_y_panorama_de_los.xhtml:
+  036-vuelta_a_la_ciudad.xhtml:
+  037-nueva_york.xhtml:
+  038-cementerio_judio.xhtml:
+  039-crucifixion.xhtml:
+  040-dos_odas.xhtml:
+  041-grito_hacia_roma.xhtml:
+  042-oda_a_walt_whitman.xhtml:
+  043-huida_de_nueva_york.xhtml:
+  044-pequeno_vals_vienes.xhtml:
+  045-vals_de_las_ramas.xhtml:
+  046-el_poeta_llega_a_la.xhtml:
+  047-son_de_negros_en_cuba.xhtml:
+  048-pequeno_poema_infinito.xhtml:
+  049-la_luna_pudo_detenerse_al.xhtml:
+  050-sin_titulo.xhtml:
+  poeta_ny.xhtml:
+## Si se quiere EPUB fijo
+px-width:
+px-height:
+## Fallbacks
+fallback:
+## WCAG:
+summary: Este EPUB está optimizado para personas con deficiencias visuales; cualquier observación por favor póngase en contacto.
+mode:
+  - textual
+  - visual
+mode-sufficient:
+  - textual, visual
+  - textual
+feature:
+  - structuralNavigation
+  - alternativeText
+  - resizeText
+api: ARIA
+control:
+hazard:
+

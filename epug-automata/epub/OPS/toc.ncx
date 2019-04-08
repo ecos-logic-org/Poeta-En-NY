@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+    <head>
+        <meta content="1_0_0-462dcda05fd84cf1a68ea7ea1510f75a" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Poeta en Nueva York</text>
+    </docTitle>
+    <docAuthor>
+        <text>García Lorca, Federico</text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1"><navLabel><text>Legal</text></navLabel><content src="xhtml/002-legal.xhtml"/></navPoint>
+        <navPoint id="navPoint-2" playOrder="2"><navLabel><text>Portada</text></navLabel><content src="xhtml/000-portada.xhtml"/></navPoint>
+        <navPoint id="navPoint-3" playOrder="3"><navLabel><text>Portadilla</text></navLabel><content src="xhtml/001-portadilla.xhtml"/></navPoint>
+        <navPoint id="navPoint-4" playOrder="4"><navLabel><text>Nota del editor</text></navLabel><content src="xhtml/003-nota_del_editor.xhtml"/></navPoint>
+        <navPoint id="navPoint-5" playOrder="5"><navLabel><text>Poemas de la soledad en Columbia University</text></navLabel><content src="xhtml/004-poemas_de_la_soledad_en.xhtml"/></navPoint>
+        <navPoint id="navPoint-6" playOrder="6"><navLabel><text>Vuelta de paseo</text></navLabel><content src="xhtml/005-vuelta_de_paseo.xhtml"/></navPoint>
+        <navPoint id="navPoint-7" playOrder="7"><navLabel><text>Mil novecientos diez</text></navLabel><content src="xhtml/006-mil_novecientos_diez.xhtml"/></navPoint>
+        <navPoint id="navPoint-8" playOrder="8"><navLabel><text>Fábula y rueda de los tres amigos</text></navLabel><content src="xhtml/007-fabula_y_rueda_de_los.xhtml"/></navPoint>
+        <navPoint id="navPoint-9" playOrder="9"><navLabel><text>Tu infancia en Menton</text></navLabel><content src="xhtml/008-tu_infancia_en_menton.xhtml"/></navPoint>
+        <navPoint id="navPoint-10" playOrder="10"><navLabel><text>Los negros</text></navLabel><content src="xhtml/009-los_negros.xhtml"/></navPoint>
+        <navPoint id="navPoint-11" playOrder="11"><navLabel><text>Norma y paraíso de los negros</text></navLabel><content src="xhtml/010-norma_y_paraiso_de_los.xhtml"/></navPoint>
+        <navPoint id="navPoint-12" playOrder="12"><navLabel><text>El rey del Harlem</text></navLabel><content src="xhtml/011-el_rey_del_harlem.xhtml"/></navPoint>
+        <navPoint id="navPoint-13" playOrder="13"><navLabel><text>Iglesia Abandonada</text></navLabel><content src="xhtml/012-iglesia_abandonada.xhtml"/></navPoint>
+        <navPoint id="navPoint-14" playOrder="14"><navLabel><text>Calles y sueños</text></navLabel><content src="xhtml/013-calles_y_suenos.xhtml"/></navPoint>
+        <navPoint id="navPoint-15" playOrder="15"><navLabel><text>Danza de la muerte</text></navLabel><content src="xhtml/014-danza_de_la_muerte.xhtml"/></navPoint>
+        <navPoint id="navPoint-16" playOrder="16"><navLabel><text>Paisaje de la multitud que vomita</text></navLabel><content src="xhtml/015-paisaje_de_la_multitud_que.xhtml"/></navPoint>
+        <navPoint id="navPoint-17" playOrder="17"><navLabel><text>Paisaje de la multitud que orina</text></navLabel><content src="xhtml/016-paisaje_de_la_multitud_que.xhtml"/></navPoint>
+        <navPoint id="navPoint-18" playOrder="18"><navLabel><text>Asesinato</text></navLabel><content src="xhtml/017-asesinato.xhtml"/></navPoint>
+        <navPoint id="navPoint-19" playOrder="19"><navLabel><text>Navidad en el Hudson</text></navLabel><content src="xhtml/018-navidad_en_el_hudson.xhtml"/></navPoint>
+        <navPoint id="navPoint-20" playOrder="20"><navLabel><text>Ciudad sin sueño</text></navLabel><content src="xhtml/019-ciudad_sin_sueno.xhtml"/></navPoint>
+        <navPoint id="navPoint-21" playOrder="21"><navLabel><text>Panorama ciego de Nueva York</text></navLabel><content src="xhtml/020-panorama_ciego_de_nueva_york.xhtml"/></navPoint>
+        <navPoint id="navPoint-22" playOrder="22"><navLabel><text>Nacimiento de Cristo</text></navLabel><content src="xhtml/021-nacimiento_de_cristo.xhtml"/></navPoint>
+        <navPoint id="navPoint-23" playOrder="23"><navLabel><text>La aurora</text></navLabel><content src="xhtml/022-la_aurora.xhtml"/></navPoint>
+        <navPoint id="navPoint-24" playOrder="24"><navLabel><text>Poemas del lago Eden Mills</text></navLabel><content src="xhtml/023-poemas_del_lago_eden_mills.xhtml"/></navPoint>
+        <navPoint id="navPoint-25" playOrder="25"><navLabel><text>Poema doble del lago Eden</text></navLabel><content src="xhtml/024-poema_doble_del_lago_eden.xhtml"/></navPoint>
+        <navPoint id="navPoint-26" playOrder="26"><navLabel><text>Cielo Vivo</text></navLabel><content src="xhtml/025-cielo_vivo.xhtml"/></navPoint>
+        <navPoint id="navPoint-27" playOrder="27"><navLabel><text>En la cabaña del Farmer</text></navLabel><content src="xhtml/026-en_la_cabana_del_farmer.xhtml"/></navPoint>
+        <navPoint id="navPoint-28" playOrder="28"><navLabel><text>El niño Stanton</text></navLabel><content src="xhtml/027-el_nino_stanton.xhtml"/></navPoint>
+        <navPoint id="navPoint-29" playOrder="29"><navLabel><text>Vaca</text></navLabel><content src="xhtml/028-vaca.xhtml"/></navPoint>
+        <navPoint id="navPoint-30" playOrder="30"><navLabel><text>Niña ahogada en el pozo</text></navLabel><content src="xhtml/029-nina_ahogada_en_el_pozo.xhtml"/></navPoint>
+        <navPoint id="navPoint-31" playOrder="31"><navLabel><text>Introducción a la muerte</text></navLabel><content src="xhtml/030-introduccion_a_la_muerte.xhtml"/></navPoint>
+        <navPoint id="navPoint-32" playOrder="32"><navLabel><text>Muerte</text></navLabel><content src="xhtml/031-muerte.xhtml"/></navPoint>
+        <navPoint id="navPoint-33" playOrder="33"><navLabel><text>Nocturno del hueco</text></navLabel><content src="xhtml/032-nocturno_del_hueco.xhtml"/></navPoint>
+        <navPoint id="navPoint-34" playOrder="34"><navLabel><text>Paisaje con dos tumbas y un perro asirio</text></navLabel><content src="xhtml/033-paisaje_con_dos_tumbas_y.xhtml"/></navPoint>
+        <navPoint id="navPoint-35" playOrder="35"><navLabel><text>Ruina</text></navLabel><content src="xhtml/034-ruina.xhtml"/></navPoint>
+        <navPoint id="navPoint-36" playOrder="36"><navLabel><text>Luna y panorama de los insectos</text></navLabel><content src="xhtml/035-luna_y_panorama_de_los.xhtml"/></navPoint>
+        <navPoint id="navPoint-37" playOrder="37"><navLabel><text>Vuelta a la ciudad</text></navLabel><content src="xhtml/036-vuelta_a_la_ciudad.xhtml"/></navPoint>
+        <navPoint id="navPoint-38" playOrder="38"><navLabel><text>Nueva York</text></navLabel><content src="xhtml/037-nueva_york.xhtml"/></navPoint>
+        <navPoint id="navPoint-39" playOrder="39"><navLabel><text>Cementerio Judío</text></navLabel><content src="xhtml/038-cementerio_judio.xhtml"/></navPoint>
+        <navPoint id="navPoint-40" playOrder="40"><navLabel><text>Crucifixión</text></navLabel><content src="xhtml/039-crucifixion.xhtml"/></navPoint>
+        <navPoint id="navPoint-41" playOrder="41"><navLabel><text>Dos odas</text></navLabel><content src="xhtml/040-dos_odas.xhtml"/></navPoint>
+        <navPoint id="navPoint-42" playOrder="42"><navLabel><text>Grito hacia Roma</text></navLabel><content src="xhtml/041-grito_hacia_roma.xhtml"/></navPoint>
+        <navPoint id="navPoint-43" playOrder="43"><navLabel><text>Oda a Walt Whitman</text></navLabel><content src="xhtml/042-oda_a_walt_whitman.xhtml"/></navPoint>
+        <navPoint id="navPoint-44" playOrder="44"><navLabel><text>Huida de Nueva York</text></navLabel><content src="xhtml/043-huida_de_nueva_york.xhtml"/></navPoint>
+        <navPoint id="navPoint-45" playOrder="45"><navLabel><text>Pequeño vals vienés</text></navLabel><content src="xhtml/044-pequeno_vals_vienes.xhtml"/></navPoint>
+        <navPoint id="navPoint-46" playOrder="46"><navLabel><text>Vals de las ramas</text></navLabel><content src="xhtml/045-vals_de_las_ramas.xhtml"/></navPoint>
+        <navPoint id="navPoint-47" playOrder="47"><navLabel><text>El poeta llega a La Habana</text></navLabel><content src="xhtml/046-el_poeta_llega_a_la.xhtml"/></navPoint>
+        <navPoint id="navPoint-48" playOrder="48"><navLabel><text>Son de negros en Cuba</text></navLabel><content src="xhtml/047-son_de_negros_en_cuba.xhtml"/></navPoint>
+        <navPoint id="navPoint-49" playOrder="49"><navLabel><text>Pequeño poema infinito</text></navLabel><content src="xhtml/048-pequeno_poema_infinito.xhtml"/></navPoint>
+        <navPoint id="navPoint-50" playOrder="50"><navLabel><text>(La luna pudo detenerse al fin)</text></navLabel><content src="xhtml/049-la_luna_pudo_detenerse_al.xhtml"/></navPoint>
+        <navPoint id="navPoint-51" playOrder="51"><navLabel><text>Sin título</text></navLabel><content src="xhtml/050-sin_titulo.xhtml"/></navPoint>
+    </navMap>
+</ncx>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xml:lang="es" unique-identifier="uid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:language>es</dc:language>
+        <dc:title>Poeta en Nueva York</dc:title>
+        <dc:creator>García Lorca, Federico</dc:creator>
+        <dc:publisher>Biblioteca Virtual ACEB</dc:publisher>
+        <dc:description>Constituye una reivindicación social por las clases más humildes y desfavorecidas, una crítica contra la miseria y opresión del hombre</dc:description>
+        <dc:subject>poetry</dc:subject>
+        <dc:identifier id="uid">1_0_0-462dcda05fd84cf1a68ea7ea1510f75a</dc:identifier>
+        <meta property="schema:accessibilitySummary">Este EPUB está optimizado para personas con deficiencias visuales; cualquier observación por favor póngase en contacto.</meta>
+        <meta property="schema:accessMode">textual</meta>
+        <meta property="schema:accessMode">visual</meta>
+        <meta property="schema:accessModeSufficient">textual, visual</meta>
+        <meta property="schema:accessModeSufficient">textual</meta>
+        <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+        <meta property="schema:accessibilityFeature">alternativeText</meta>
+        <meta property="schema:accessibilityFeature">resizeText</meta>
+        <meta property="schema:accessibilityAPI">ARIA</meta>
+        <meta property="dcterms:modified">2019-03-22T00:15:19Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="ibooks:specified-fonts">true</meta>
+    </metadata>
+    <manifest>
+        <item href="toc.ncx" id="id_toc_ncx" media-type="application/x-dtbncx+xml" />
+        <item href="nav.xhtml" id="id_nav_xhtml" media-type="application/xhtml+xml" properties="nav" />
+        <item href="img/portada.jpg" id="id_portada_jpg" media-type="image/jpeg" properties="cover-image" />
+        <item href="css/styles.css" id="id_styles_css" media-type="text/css" />
+        <item href="img/by-nc-nd.png" id="id_by-nc-nd_png" media-type="image/png" />
+        <item href="img/by-nc-nd_compact.png" id="id_by-nc-nd_compact_png" media-type="image/png" />
+        <item href="img/granlogo.png" id="id_granlogo_png" media-type="image/png" />
+        <item href="img/logo.png" id="id_logo_png" media-type="image/png" />
+        <item href="img/logo_back.png" id="id_logo_back_png" media-type="image/png" />
+        <item href="img/public_domain.png" id="id_public_domain_png" media-type="image/png" />
+        <item href="ttf/alegreya-bold.ttf" id="id_alegreya-bold_ttf" media-type="application/vnd.ms-opentype" />
+        <item href="ttf/alegreya-bolditalic.ttf" id="id_alegreya-bolditalic_ttf" media-type="application/vnd.ms-opentype" />
+        <item href="ttf/alegreya-italic.ttf" id="id_alegreya-italic_ttf" media-type="application/vnd.ms-opentype" />
+        <item href="ttf/alegreya-regular.ttf" id="id_alegreya-regular_ttf" media-type="application/vnd.ms-opentype" />
+        <item href="xhtml/000-portada.xhtml" id="id_000-portada_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/001-portadilla.xhtml" id="id_001-portadilla_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/002-legal.xhtml" id="id_002-legal_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/003-nota_del_editor.xhtml" id="id_003-nota_del_editor_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/004-poemas_de_la_soledad_en.xhtml" id="id_004-poemas_de_la_soledad_en_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/005-vuelta_de_paseo.xhtml" id="id_005-vuelta_de_paseo_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/006-mil_novecientos_diez.xhtml" id="id_006-mil_novecientos_diez_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/007-fabula_y_rueda_de_los.xhtml" id="id_007-fabula_y_rueda_de_los_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/008-tu_infancia_en_menton.xhtml" id="id_008-tu_infancia_en_menton_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/009-los_negros.xhtml" id="id_009-los_negros_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/010-norma_y_paraiso_de_los.xhtml" id="id_010-norma_y_paraiso_de_los_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/011-el_rey_del_harlem.xhtml" id="id_011-el_rey_del_harlem_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/012-iglesia_abandonada.xhtml" id="id_012-iglesia_abandonada_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/013-calles_y_suenos.xhtml" id="id_013-calles_y_suenos_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/014-danza_de_la_muerte.xhtml" id="id_014-danza_de_la_muerte_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/015-paisaje_de_la_multitud_que.xhtml" id="id_015-paisaje_de_la_multitud_que_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/016-paisaje_de_la_multitud_que.xhtml" id="id_016-paisaje_de_la_multitud_que_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/017-asesinato.xhtml" id="id_017-asesinato_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/018-navidad_en_el_hudson.xhtml" id="id_018-navidad_en_el_hudson_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/019-ciudad_sin_sueno.xhtml" id="id_019-ciudad_sin_sueno_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/020-panorama_ciego_de_nueva_york.xhtml" id="id_020-panorama_ciego_de_nueva_york_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/021-nacimiento_de_cristo.xhtml" id="id_021-nacimiento_de_cristo_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/022-la_aurora.xhtml" id="id_022-la_aurora_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/023-poemas_del_lago_eden_mills.xhtml" id="id_023-poemas_del_lago_eden_mills_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/024-poema_doble_del_lago_eden.xhtml" id="id_024-poema_doble_del_lago_eden_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/025-cielo_vivo.xhtml" id="id_025-cielo_vivo_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/026-en_la_cabana_del_farmer.xhtml" id="id_026-en_la_cabana_del_farmer_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/027-el_nino_stanton.xhtml" id="id_027-el_nino_stanton_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/028-vaca.xhtml" id="id_028-vaca_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/029-nina_ahogada_en_el_pozo.xhtml" id="id_029-nina_ahogada_en_el_pozo_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/030-introduccion_a_la_muerte.xhtml" id="id_030-introduccion_a_la_muerte_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/031-muerte.xhtml" id="id_031-muerte_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/032-nocturno_del_hueco.xhtml" id="id_032-nocturno_del_hueco_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/033-paisaje_con_dos_tumbas_y.xhtml" id="id_033-paisaje_con_dos_tumbas_y_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/034-ruina.xhtml" id="id_034-ruina_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/035-luna_y_panorama_de_los.xhtml" id="id_035-luna_y_panorama_de_los_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/036-vuelta_a_la_ciudad.xhtml" id="id_036-vuelta_a_la_ciudad_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/037-nueva_york.xhtml" id="id_037-nueva_york_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/038-cementerio_judio.xhtml" id="id_038-cementerio_judio_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/039-crucifixion.xhtml" id="id_039-crucifixion_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/040-dos_odas.xhtml" id="id_040-dos_odas_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/041-grito_hacia_roma.xhtml" id="id_041-grito_hacia_roma_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/042-oda_a_walt_whitman.xhtml" id="id_042-oda_a_walt_whitman_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/043-huida_de_nueva_york.xhtml" id="id_043-huida_de_nueva_york_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/044-pequeno_vals_vienes.xhtml" id="id_044-pequeno_vals_vienes_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/045-vals_de_las_ramas.xhtml" id="id_045-vals_de_las_ramas_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/046-el_poeta_llega_a_la.xhtml" id="id_046-el_poeta_llega_a_la_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/047-son_de_negros_en_cuba.xhtml" id="id_047-son_de_negros_en_cuba_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/048-pequeno_poema_infinito.xhtml" id="id_048-pequeno_poema_infinito_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/049-la_luna_pudo_detenerse_al.xhtml" id="id_049-la_luna_pudo_detenerse_al_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/050-sin_titulo.xhtml" id="id_050-sin_titulo_xhtml" media-type="application/xhtml+xml" />
+    </manifest>
+    <spine toc="id_toc_ncx">
+        <itemref idref="id_000-portada_xhtml"/>
+        <itemref idref="id_001-portadilla_xhtml"/>
+        <itemref idref="id_002-legal_xhtml"/>
+        <itemref idref="id_003-nota_del_editor_xhtml"/>
+        <itemref idref="id_004-poemas_de_la_soledad_en_xhtml"/>
+        <itemref idref="id_005-vuelta_de_paseo_xhtml"/>
+        <itemref idref="id_006-mil_novecientos_diez_xhtml"/>
+        <itemref idref="id_007-fabula_y_rueda_de_los_xhtml"/>
+        <itemref idref="id_008-tu_infancia_en_menton_xhtml"/>
+        <itemref idref="id_009-los_negros_xhtml"/>
+        <itemref idref="id_010-norma_y_paraiso_de_los_xhtml"/>
+        <itemref idref="id_011-el_rey_del_harlem_xhtml"/>
+        <itemref idref="id_012-iglesia_abandonada_xhtml"/>
+        <itemref idref="id_013-calles_y_suenos_xhtml"/>
+        <itemref idref="id_014-danza_de_la_muerte_xhtml"/>
+        <itemref idref="id_015-paisaje_de_la_multitud_que_xhtml"/>
+        <itemref idref="id_016-paisaje_de_la_multitud_que_xhtml"/>
+        <itemref idref="id_017-asesinato_xhtml"/>
+        <itemref idref="id_018-navidad_en_el_hudson_xhtml"/>
+        <itemref idref="id_019-ciudad_sin_sueno_xhtml"/>
+        <itemref idref="id_020-panorama_ciego_de_nueva_york_xhtml"/>
+        <itemref idref="id_021-nacimiento_de_cristo_xhtml"/>
+        <itemref idref="id_022-la_aurora_xhtml"/>
+        <itemref idref="id_023-poemas_del_lago_eden_mills_xhtml"/>
+        <itemref idref="id_024-poema_doble_del_lago_eden_xhtml"/>
+        <itemref idref="id_025-cielo_vivo_xhtml"/>
+        <itemref idref="id_026-en_la_cabana_del_farmer_xhtml"/>
+        <itemref idref="id_027-el_nino_stanton_xhtml"/>
+        <itemref idref="id_028-vaca_xhtml"/>
+        <itemref idref="id_029-nina_ahogada_en_el_pozo_xhtml"/>
+        <itemref idref="id_030-introduccion_a_la_muerte_xhtml"/>
+        <itemref idref="id_031-muerte_xhtml"/>
+        <itemref idref="id_032-nocturno_del_hueco_xhtml"/>
+        <itemref idref="id_033-paisaje_con_dos_tumbas_y_xhtml"/>
+        <itemref idref="id_034-ruina_xhtml"/>
+        <itemref idref="id_035-luna_y_panorama_de_los_xhtml"/>
+        <itemref idref="id_036-vuelta_a_la_ciudad_xhtml"/>
+        <itemref idref="id_037-nueva_york_xhtml"/>
+        <itemref idref="id_038-cementerio_judio_xhtml"/>
+        <itemref idref="id_039-crucifixion_xhtml"/>
+        <itemref idref="id_040-dos_odas_xhtml"/>
+        <itemref idref="id_041-grito_hacia_roma_xhtml"/>
+        <itemref idref="id_042-oda_a_walt_whitman_xhtml"/>
+        <itemref idref="id_043-huida_de_nueva_york_xhtml"/>
+        <itemref idref="id_044-pequeno_vals_vienes_xhtml"/>
+        <itemref idref="id_045-vals_de_las_ramas_xhtml"/>
+        <itemref idref="id_046-el_poeta_llega_a_la_xhtml"/>
+        <itemref idref="id_047-son_de_negros_en_cuba_xhtml"/>
+        <itemref idref="id_048-pequeno_poema_infinito_xhtml"/>
+        <itemref idref="id_049-la_luna_pudo_detenerse_al_xhtml"/>
+        <itemref idref="id_050-sin_titulo_xhtml"/>
+    </spine>
+</package>

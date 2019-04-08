@@ -1,0 +1,144 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% eBook
+% Structural Definitions File
+% Version 1.0 (29/12/14)
+%
+% Created by:
+% Vel (vel@latextemplates.com)
+% 
+% This file has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% License:
+% CC BY-NC-nd 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Packages ----------------------------------------------------
+
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[spanish,es-tabla]{babel} % To spanish language
+%\usepackage[T1]{fontenc} % Output font encoding for international character
+
+\usepackage[osf]{libertine} % Use the Libertine font
+\usepackage{microtype} % Improves character and word spacing
+
+\usepackage{verse}
+\usepackage[a-1b]{pdfx}
+\usepackage{hyperref}
+\usepackage[dvipsnames,svgnames,x11names,hyperref]{xcolor}
+
+\hypersetup{
+    colorlinks,
+    linkcolor={[rgb]{0.57, 0.0, 0.04}}, % [rgb]{0.93, 0.51, 0.93}
+    citecolor={[rgb]{1.0, 0.73, 0.0}},
+    urlcolor={[rgb]{0.36, 0.54, 0.66}}
+}
+
+\usepackage{wallpaper} % Required for setting background images (title page)
+\usepackage{epigraph}
+\usepackage{epipart}
+\usepackage{hyperxmp}
+
+\usepackage[
+   type={CC},
+   modifier={zero},
+   version={1.0},]{doclicense} % Licencia de creative commons 
+
+\usepackage{pdfpages} % you need whith the option notitlepage
+% Use PoetryTeX; http://www.ctan.org/pkg/poetrytex
+\usepackage[
+    numberpoems, 
+    clearpageafterpoem,
+    useincipits,
+    usedefaulttitles,
+    ]{poetrytex}
+
+
+% Margins ---------------------------------------------------
+
+\usepackage[top=2.2cm,
+            bottom=2.2cm,
+            left=4cm,
+            right=4cm,
+            headheight=30pt,
+            includeheadfoot=true]{geometry}
+
+% Header and footer format ----------------------------------
+
+\usepackage{fancyhdr} % man http://osl.ugr.es/CTAN/macros/latex/contrib/fancyhdr/fancyhdr.pdf
+
+\renewcommand*{\poetryheadings}[0]{\pagestyle{fancy}
+% \markboth{\includegraphics[width=.18\textwidth]{../plantillas/logo.png} % Insert logo in the head % {\pttitle} to insert the title at the left \hfill }
+%{\hfill\textsc{\ptgroup}}
+\fancyhead[R]{\hfill\includegraphics[width=0.7cm]{../../../img/logo.png}}
+\fancyhead[L]{\textsc{\ptgroup}\hfill}
+}
+%\lhead{\ULCornerWallPaper{0.01}{../../img/logo.png}} % Insert logo in the head
+% Group page style
+
+\setlength{\pregroupvspace}{10em}
+
+
+% Poem Title--------------------------------------------
+
+%\renewcommand*{\pttitleenv}{flushleft} % You can change to center or flushright. Center is by default.
+
+%	Poem title margin and indentation ----------------------
+
+\setlength{\poemvspace}{0em} % Title margin top 
+\setlength{\pttitleleftspace}{0em} % Title margin left
+\setlength{\pttitlerightspace}{0em} % Title margin right
+
+\setlength{\ptsubtitleleftspace}{0em} % Subtitle margin left
+\setlength{\ptsubtitlerightspace}{0em} % Subtitle margin right
+
+% To insert a rule in the top of the title uncomment this:
+% \renewcommand*{\poemtitleformat}
+% {\normalfont\bfseries%
+% {\rule{10em}{0.001em}}\\*} 
+
+\renewcommand*{\ptdefaulttitle}{} % You can change this for \renewcommand*{\ptdefaulttitle}{Untitled \textnumero\ \arabic{absoluteuntitledpoemnum}} % to set the default title
+
+\numbertop
+\renewcommand*{\titlepoemnum}{% 
+\unskip\Roman{absolutepoemnum}\\} % You can change roman for arabic, and put or quit {poemnum}
+
+
+% Asterism
+\renewcommand{\ptspacerchar}{\bigskip\par{\large\centerline{***\medskip}}\par} % choose the character to separate the poems or stanzas, you need put \ptspacer betwen
+\setcounter{ptspacernum}{1} % Number of times to repeat the spacer
+
+% Configuration of footnote
+\usepackage[bottom,flushmargin,hang,multiple]{footmisc}
+
+% Quotes and epigraphs -------------------------------
+
+\renewenvironment{quotation}
+{\par\leftskip=1em\vskip.5\onelineskip\em}
+{\par\vskip.5\onelineskip}
+
+\renewenvironment{quote}
+  {\small\list{}{\rightmargin=3.5em \leftmargin=3.5em}%
+   \item\relax}
+  {\endlist}
+
+\setlength{\epigraphrule}{0em} % You can change the size of the rule
+
+\setlength\epigraphwidth{.4\textwidth}
+
+\renewcommand{\epigraphsize}{\footnotesize} % \epigraphsize{\small}% Default
+
+% Spacing---------------------------------------------
+% Indentation
+\setlength{\parindent}{0em} % Paragraph indentation
+\setlength{\ptgap}{2em} % Poem indentation. You need to insert \ptind in the poem to indent
+\setlength{\parskip}{2.5ex} % Set the space inter parragraphs
+\setlength{\stanzaparskip}{1em} % Set the space inter stanza
+\setlength{\vindent}{3em}
+
+% Hyphenation
+
+\usepackage{hyphenat}
+%\sloppy % suaviza las reglas de ruptura de líneas de LaTeX
+
